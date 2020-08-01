@@ -1,3 +1,9 @@
+koha (20.05.02-4) 20.05; urgency=medium
+
+  * New upstream release (20.05.02)
+
+ -- buildbot <buildbot@kohaaloha.com>  Sat, 01 Aug 2020 17:01:27 +1200
+
 koha (16.05.02) squeeze; urgency=medium
 
   * New upstream release (16.05.02)
