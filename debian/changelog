@@ -1,3 +1,9 @@
+koha (21.05.11-1) 21.05; urgency=medium
+
+  * New upstream release (21.05.11)
+
+ -- Mason James <mtj@kohaaloha.com>  Wed, 23 Feb 2022 17:34:09 +1300
+
 koha (16.05.02) squeeze; urgency=medium
 
   * New upstream release (16.05.02)
