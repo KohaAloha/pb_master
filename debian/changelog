@@ -1,3 +1,9 @@
+koha (20.11.19-3) 20.11; urgency=high
+
+  * New upstream SECURITY release (20.11.19)
+
+ -- Mason James <mtj@kohaaloha.com>  Sat, 04 Jun 2022 11:36:02 +1200
+
 koha (16.05.02) squeeze; urgency=medium
 
   * New upstream release (16.05.02)
